@@ -36,3 +36,4 @@ spring-boot-rest-example-master.zip
 /dist/
 /nbdist/
 /.nb-gradle/
+/.recommenders/
